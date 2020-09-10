@@ -1,2 +1,6 @@
 I love pugs they are dumb
+<<<<<<< HEAD
 pugs are stupid
+=======
+pugs are cute
+>>>>>>> c461be566edeb6af6cd845d0025b3b421be11308
